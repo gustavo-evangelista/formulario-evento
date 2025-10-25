@@ -74,4 +74,4 @@ Comece a preencher o formulário!
 
 ✅ Live Demo
 
-Click here to view (formulario-evento.netlify.app)
+Click here to view (https://formulario-evento.netlify.app)
